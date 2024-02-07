@@ -137,7 +137,7 @@ SAML2_IDP_AUTHNCONTEXT=true
 ```
 ## Create a SAML Application/Project.
 
- Bookstack I can use a URL to insert the metadata need for the SAML Application.
+Bookstack can use a URL to insert the metadata needed for the SAML Application XML file as shown below.
  
 ```
 https://bookstack.domain.com /saml2/metadata
