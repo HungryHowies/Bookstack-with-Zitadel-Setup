@@ -4,11 +4,12 @@
 Installing bookstack with Let's encrypt and connecting it to Zitadel for SSO using SAML application.
 
 Prerequisite
-  RIPTION="Ubuntu 22.04.3 LTS"
-  Completed all updates && upgrades
-  Set time zone
-  Apache install
-  Let's Encrypt
+  * Ubuntu 22.04.3 LTS
+  * Completed all updates && upgrades
+  * Set time zone
+  * Apache install
+  * Let's Encrypt
+  * Zitadel instance
 
 ## Bookstack install
 
@@ -141,7 +142,7 @@ https://bookstack.domain.com /saml2/metadata
 ```
 ![image](https://github.com/HungryHowies/Bookstack-with-Zitadel-Setup/assets/22652276/dee78558-7ddc-490d-b257-8585ec6b8123)
 
-Click Continue
+Click Continue and save.
 
 
 
