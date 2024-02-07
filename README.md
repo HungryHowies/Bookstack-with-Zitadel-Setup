@@ -129,8 +129,8 @@ JjReTr5TRFE2FxTaWnxeKtMn/UvE1I7PsgDcvm/a+TR48YW0k+yYegXktGeQxurA/aZqSjSBc55kfDR8
 
 SAML2_IDP_AUTHNCONTEXT=true
 ```
-
-UplOad XML Bookstack file to Zitadel and create a SAML Application/Project.
+Create a SAML Application/Project.
+Upload XML file for Bookstack to Zitadel.  
 
 
 
