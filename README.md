@@ -75,8 +75,11 @@ Restart Apache Service
 ```
 systemctl restart apache2
 ```
-Configured Bookstacks .env file locate in /var/www/bookstack.
-Note: To get the x509 cert Its from Zitadel by using the end point /saml/v2/metadata on the FQDN ior IP Address.
+## Configured Bookstacks .env file
+
+This is located in /var/www/bookstack.
+Note: To get the x509 certificate. This is done by using the end point /saml/v2/metadata on the FQDN or IP Address on your Zitadel instance.
+
 Example: 
 ```
 https://zitadel.domain.com/saml/v2/metadata
@@ -129,8 +132,17 @@ JjReTr5TRFE2FxTaWnxeKtMn/UvE1I7PsgDcvm/a+TR48YW0k+yYegXktGeQxurA/aZqSjSBc55kfDR8
 
 SAML2_IDP_AUTHNCONTEXT=true
 ```
-Create a SAML Application/Project.
-Upload XML file for Bookstack to Zitadel.  
+## Create a SAML Application/Project.
+
+ Bookstack I can use a URL to insert the metadata need for the SAML Application.
+ 
+```
+https://bookstack.domain.com /saml2/metadata
+```
+![image](https://github.com/HungryHowies/Bookstack-with-Zitadel-Setup/assets/22652276/dee78558-7ddc-490d-b257-8585ec6b8123)
+
+Click Continue
+
 
 
 
