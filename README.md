@@ -10,7 +10,7 @@ Prerequisite
   * Apache install
   * Let's Encrypt
   * Zitadel instance
-  * MySQL 8.0
+  * MySQL >= 5.7 or MariaDB >= 10.2
   * PHP 8.1 
 
 ## Bookstack install
