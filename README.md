@@ -35,6 +35,11 @@ Create certificates.
 sudo certbot --apache
 ```
 Apache  configuration
+
+Ensure Apapche  Mods are installed.
+```
+sudo a2enmod dir env headers mime rewrite ssl
+```
 ```
 <VirtualHost *:80>
       ServerName bookstack.domain.com
