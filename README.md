@@ -3,6 +3,8 @@
 ## Overview
 Installing bookstack with Let's encrypt and connecting it to Zitadel for SSO using SAML application.
 
+NOTE: This was tested on Zitadel Instance v2.37.3. There may be a bug on later version  when using ""Option 1. Specify the url where metadata file is located""
+
 Prerequisite
   * Ubuntu 22.04.3 LTS
   * Completed all updates && upgrades
