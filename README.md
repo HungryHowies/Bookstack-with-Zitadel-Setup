@@ -98,7 +98,7 @@ The .env file configuration.
 
 ```
 APP_KEY=base64:bADpkrGFLJUFcnZb1z8qWwvDewCpyCwh/VE964fL4gI=
-APP_URL=https://bookstack.domain.com.com
+APP_URL=https://bookstack.domain.com
 DB_HOST=localhost
 DB_DATABASE=bookstack
 DB_USERNAME=bookstack
