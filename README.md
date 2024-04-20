@@ -131,7 +131,7 @@ SAML2_IDP_AUTHNCONTEXT=true
 Bookstack can use a URL to insert the metadata needed for the SAML Application XML file as shown below.
  
 ```
-https://bookstack.domain.com /saml2/metadata
+https://bookstack.domain.com/saml2/metadata
 ```
 ![image](https://github.com/HungryHowies/Bookstack-with-Zitadel-Setup/assets/22652276/dee78558-7ddc-490d-b257-8585ec6b8123)
 
